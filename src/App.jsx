@@ -6,9 +6,9 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import NavBar from "./components/navBar/navBar";
 import Footer from "./components/footer/footer";
 
-import Sobre from "./pages/sobre";
-import Home from "./pages/Home";
-import Contato from "./pages/contato";
+import Sobre from "../src/pages/sobre";
+import Home from "../src/pages/home";
+import Contato from "../src/pages/contato";
 
 function App() {
   return (
