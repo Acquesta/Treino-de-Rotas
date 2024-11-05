@@ -19,7 +19,7 @@ O objetivo deste projeto é desenvolver uma loja online com diferentes tipos de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/acquesta/.git
+   git clone https://github.com/acquesta/Treino-de-Rotas.git
 
 2. Instale as dependências:
    ```bash
